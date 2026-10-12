@@ -54,3 +54,21 @@ Promedio ene–oct (pago principal de cada mes): ~40 días de atraso. 9 de 10 me
 - F79 (septiembre) dice 5 → debería ser 33.
 - F80 (octubre) vacío → 3.
 - F81 (noviembre) vacío → 0 (adelantado).
+
+## Recálculo de intereses y saldo de julio (12-oct-2026)
+
+Saldo de julio: rentas ene–nov 19.800.000 − pagos 19.700.000 = **Gs. 100.000** (correcto).
+
+Base de cálculo: saldo deudor diario × días (interés simple, mes de 30 días).
+- Período 11-jul → 08-oct: 188,9 M Gs·día (agosto 64 días, septiembre 33, octubre 3, los 100.000 de julio 89).
+- Año completo 05-ene → 08-oct: 709,2 M Gs·día.
+
+| Tasa mensual | Solo jul–oct | Todo el año |
+|---|---|---|
+| 1 % | 63.000 | 236.400 |
+| 2 % | 125.900 | 472.800 |
+| 3 % | 188.900 | 709.200 |
+
+Los 120.000 cobrados equivalen a ≈1,9 % mensual sobre el atraso de jul–oct (no cubren los atrasos de ene–jun).
+Interés de los 100.000 de julio al 2 %: 6.600 al 12-oct (99 días desde el 5-jul); 7.900 al 31-oct.
+Total a fin de octubre al 2 % (solo jul–oct): 100.000 + 125.900 + 1.500 (100.000 del 8 al 31-oct) ≈ **Gs. 227.400**.
