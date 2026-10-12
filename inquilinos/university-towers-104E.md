@@ -72,3 +72,19 @@ Base de cálculo: saldo deudor diario × días (interés simple, mes de 30 días
 Los 120.000 cobrados equivalen a ≈1,9 % mensual sobre el atraso de jul–oct (no cubren los atrasos de ene–jun).
 Interés de los 100.000 de julio al 2 %: 6.600 al 12-oct (99 días desde el 5-jul); 7.900 al 31-oct.
 Total a fin de octubre al 2 % (solo jul–oct): 100.000 + 125.900 + 1.500 (100.000 del 8 al 31-oct) ≈ **Gs. 227.400**.
+
+## Decisión del dueño (12-oct-2026)
+
+- Se perdonan los intereses de enero a julio. Desde agosto 2026 en adelante se cobra interés por atraso, **sin excepciones**.
+- Tasa aplicada: 2 % mensual simple (mes de 30 días) desde el día 5 de cada mes.
+
+| Concepto | Días | Interés |
+|---|---|---|
+| Agosto 1.800.000 (05-ago → 08-oct) | 64 | 76.800 |
+| Septiembre 1.800.000 (05-sep → 08-oct) | 33 | 39.600 |
+| Octubre 1.800.000 (05-oct → 08-oct) | 3 | 3.600 |
+| **Subtotal ya cargado en planilla** | | **120.000** ✔ |
+| Saldo julio 100.000 (05-ago → 31-oct) | 87 | 5.800 |
+
+Total a cobrar el 31-oct-2026: 100.000 + 120.000 + 5.800 = **Gs. 225.800**.
+Si paga después: sumar Gs. 67 por día sobre los 100.000.
